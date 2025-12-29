@@ -15,3 +15,11 @@ A Spring Boot CRUD application to manage teachers.
 - H2 Database
 
 ## 📂 Structure
+src
+└── main
+└── java
+└── com.example.coursecrud
+├── model
+├── repository
+├── controller
+└── CoursecrudApplication.java
